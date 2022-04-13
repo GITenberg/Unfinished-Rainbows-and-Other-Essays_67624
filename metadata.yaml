@@ -1,0 +1,37 @@
+_repo: Unfinished-Rainbows-and-Other-Essays_67624
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, George Wood
+    birthdate: 1873
+    gutenberg_agent_id: '54363'
+    url: http://www.gutenberg.org/2009/agents/54363
+description: ''
+gutenberg_issued: '2022-03-13'
+identifiers:
+  gutenberg: '67624'
+language: en
+pgterms:marc904: https://archive.org/details/unfinishedrainbo00ande
+pgterms:marc905: 20170920225549anderson
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: MFR and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :The Abingdon press,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Christianity'
+- GITenberg
+tableOfContents: Unfinished rainbows -- Gathering sunsets -- Beyond the curtained
+  clouds -- Tilling the sky -- Unquarried statues -- The ages to come -- The unlocked
+  door of truth -- Weaving sunbeams -- The pathway of a noble purpose -- Swords for
+  moral battles -- Spiced wine -- The fever of health -- The wisdom of the unlearned
+  -- The strength of weakness -- Crumbling palaces -- The echo of life's unsung songs
+  -- Modern Judases -- The adjustable universe -- Seeing love -- The dignity of labor
+  -- Above the commonplace of sin -- The investment of a life -- Thought planting
+  -- The rosary of tears -- The hearthstone of the heart -- The unoared sea.
+title: Unfinished Rainbows, and Other Essays
+url: http://www.gutenberg.org/ebooks/67624
